@@ -75,3 +75,24 @@ Step 5: Subtract 1 from the number of items in your data set*. For our example:
 Step 6: Divide the number in Step 4 by the number in Step 5. This gives you the variance:
 
 31,099.5 / 5 = 6,219.9
+
+
+#Problem Statement 3:
+In a class on 100 students, 80 students passed in all subjects, 10 failed in one subject, 7
+failed in two subjects and 3 failed in three subjects. Find the probability distribution of
+the variable for number of subjects a student from the given class has failed in.
+#Answer
+For a random student, 				
+				
+The probability of failing in 0 subjects, P(X=0) = 0.8				
+				
+The probability of failing in 1 subjects, P(X=1) = 0.1				
+				
+The probability of failing in 2 subjects, P(X=2) = 0.07				
+				
+The probability of failing in 3 subjects, P(X=3) = 0.03				
+				
+The probability distribution can be shown as:				
+				
+ X	 0	 1	 2	 3
+ P(X)	0.8	 0.1	 0.07	 0.03
