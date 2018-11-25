@@ -31,3 +31,47 @@ Step 4: Add up all of the squares you found in Step 3 and divide by 5 (which is 
 Step 5: Find the square root of the number you found in Step 4 (the variance):
 √135416.66668 = 367.99
 The standard deviation is 367.99.
+
+
+#Problem Statement 2:
+Find the variance for the following set of data representing trees in California (heights in
+feet):
+3, 21, 98, 203, 17, 9
+
+#Answer
+
+Step 1: Add up the numbers in your given data set.
+
+3 + 21 + 98 + 203 + 17 + 9 = 351
+
+Step 2: Square your answer:
+
+351 × 351 = 123,201
+
+…and divide by the number of items. We have 6 items in our example so:
+
+123,201 / 6 = 20,533.5
+
+Set this number aside for a moment.
+
+Step 3: Take your set of original numbers from Step 1, and square them individually this time:
+
+3 × 3 + 21 × 21 + 98 × 98 + 203 × 203 + 17 × 17 + 9 × 9
+
+Add those numbers (the squares) together:
+
+9 + 441 + 9604 + 41209 + 289 + 81 = 51,633
+
+Step 4: Subtract the amount in Step 2 from the amount in Step 3.
+
+51,633 – 20,533.5 = 31,099.5
+
+Set this number aside for a moment.
+
+Step 5: Subtract 1 from the number of items in your data set*. For our example:
+
+6 – 1 = 5
+
+Step 6: Divide the number in Step 4 by the number in Step 5. This gives you the variance:
+
+31,099.5 / 5 = 6,219.9
